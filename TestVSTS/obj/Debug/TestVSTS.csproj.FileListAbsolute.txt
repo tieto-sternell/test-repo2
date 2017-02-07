@@ -1,0 +1,6 @@
+C:\src5\temp\TestVSTS\TestVSTS\bin\Debug\TestVSTS.exe.config
+C:\src5\temp\TestVSTS\TestVSTS\bin\Debug\TestVSTS.exe
+C:\src5\temp\TestVSTS\TestVSTS\bin\Debug\TestVSTS.pdb
+C:\src5\temp\TestVSTS\TestVSTS\obj\Debug\TestVSTS.csprojResolveAssemblyReference.cache
+C:\src5\temp\TestVSTS\TestVSTS\obj\Debug\TestVSTS.exe
+C:\src5\temp\TestVSTS\TestVSTS\obj\Debug\TestVSTS.pdb
